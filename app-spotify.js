@@ -49,7 +49,7 @@ document.querySelector('.nav-item-bar5').addEventListener('click', hidesidebar);
         // Store the target section in localStorage
         localStorage.setItem('scrollToSection', targetSection);
         // Redirect to index.html
-        window.location.href = 'index.html';
+        window.location.href = 'https://shivam-khode01.github.io/potfolio-spotify/';
     }
 
     // Function to navigate to specific section on the current page
